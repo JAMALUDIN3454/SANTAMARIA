@@ -1,2 +1,1 @@
-# SANTAMARIA
-BOHAY
+add index.html to repo
